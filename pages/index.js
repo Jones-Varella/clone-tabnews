@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Isabela e Tamara amo que nem sei!</h1>
+    return <h1>Nossa vida em São Paulo vai demaisss!!! </h1>
 }
 
 export default Home;
